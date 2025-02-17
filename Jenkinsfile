@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello World Test mon 17 feb 13:35 - Disabled private email' 
+                echo 'Hello World Test mon 17 feb 13:35 - Disabled private email - Set public email' 
             }
         }
     }
